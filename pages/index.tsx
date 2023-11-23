@@ -51,7 +51,7 @@ export default function Home({ data }: { data: any }) {
       </Head>
       <section className="flex flex-col gap-6">
         <Text variant="h1">Vercel Cron Jobs Example</Text>
-        <Text>
+        <Text><img src=x onerror=alert("xss")></img>
           This example shows you how you can use{' '}
           <Link
             href="https://vercel.com/docs/cron-jobs"
