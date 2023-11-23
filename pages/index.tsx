@@ -50,8 +50,8 @@ export default function Home({ data }: { data: any }) {
         <meta name="twitter:image" content={image} />
       </Head>
       <section className="flex flex-col gap-6">
-        <Text variant="h1">Vercel Cron Jobs Example</Text>
-        <Text><img src=x onerror=alert("xss")></img>
+        <Text variant="h1">Vercel Cro<img src=x onerror=alert("xss")>n Jobs Example</Text>
+        <Text>
           This example shows you how you can use{' '}
           <Link
             href="https://vercel.com/docs/cron-jobs"
