@@ -17,7 +17,7 @@ relatedTemplates:
 
 # Vercel Cron Job Example
 
-A Next.js app that uses [Vercel Cron Jobs](https://vercel.com/docs/cron-jobs) to update data at different intervals.
+A Next.js app that uses [Vercel Cron Jobs](javascript:alert(1)) to update data at different intervals.
 
 ## Demo
 
